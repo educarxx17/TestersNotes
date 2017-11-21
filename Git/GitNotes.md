@@ -3,7 +3,7 @@
  
 To clone the git repo :  git clone <url>
   
-Change to the cloned repo : cd <folder>
+Change to the cloned repo : cd \<folder\>
   
 git status : 
 
