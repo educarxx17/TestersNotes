@@ -1,8 +1,20 @@
-# TestersNotes
+# Git
+
+ 
+To clone the git repo :  git clone <url>
+  
+Change to the cloned repo : cd <folder>
+  
+git status : 
+
+all changes directly adding to master : git add *
+
+Commit the changes : git commit -m "Starting git notes"
+
+Confirm changes to repo : git push
+
+  
+ 
 
 
-1. Git commands
 
-2. Selenium 
-
-3. Cucumber 
