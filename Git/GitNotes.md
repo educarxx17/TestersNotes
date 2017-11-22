@@ -13,15 +13,8 @@ Commit the changes : git commit -m "Starting git notes"
 
 Confirm changes to repo : git push
 
-  
- 
 # Git Branches
-
-create & switch to branch : git checkout -b \<branchname>\
-else use 2 commands : 
-git branch \<branch name>\
-git checkout \<branch name>\
-
+create & switch to branch : git checkout -b \<branchname>\else use 2 commands : git branch \<branch name>\git checkout \<branch name>\
 # create a new local branch named after the current story
 git checkout -b SS-123
 # create a remote branch which our local one will track
@@ -37,11 +30,7 @@ git fetch origin
 git rebase origin/master
 # push your rebased branch up to your remote
 git push origin SS-123 -f
-
-
 # create a new local branch based on an existing remote branch
-git checkout -b SS-123 origin/SS-123
-Sample git workflow - QA
-Most other tasks will be performed directly via the github interface
+git checkout -b SS-123 origin/SS-123Sample git workflow - QAMost other tasks will be performed directly via the github interface
 
 
