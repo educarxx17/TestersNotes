@@ -32,6 +32,8 @@ git rebase origin/master
 git push origin SS-123 -f
 #### create a new local branch based on an existing remote branch
 git checkout -b SS-123 origin/SS-123
-Sample git workflow - QAMost other tasks will be performed directly via the github interface
+
+Sample git workflow - QA
+Most other tasks will be performed directly via the github interface
 
 
